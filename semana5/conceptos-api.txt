@@ -1,0 +1,3 @@
+Esta ruta permite recibir reportes enviados por los usuarios mediante una petición POST. El servidor toma el mensaje enviado, lo guarda en la variable mensaje y responde indicando que el reporte fue recibido correctamente en formato JSON.
+
+En una aplicación comunitaria, esta ruta podría servir para que las personas reporten problemas, situaciones de emergencia o necesidades del barrio. Por ejemplo, alguien podría enviar un mensaje avisando sobre un daño en una calle o un corte de energía. De esta forma, la aplicación ayudaría a mantener informada a la comunidad y facilitaría la organización de soluciones o respuestas rápidas ante diferentes situaciones.

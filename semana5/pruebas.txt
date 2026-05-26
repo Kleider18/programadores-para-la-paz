@@ -1,0 +1,3 @@
+La ruta http://localhost:3000 muestra como resultado un mensaje indiciando que el servidor esta activo
+La ruta http://localhost:3000/saludo muestra como resultado un mensaje saludando a la comunidad con "Hola Comunidad"
+La ruta http://localhost:3000/mensaje/juan muestra como resultado un mensaje diciendo "Hola Kleider" en mi caso especifico
