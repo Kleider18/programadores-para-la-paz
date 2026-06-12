@@ -1,0 +1,6 @@
+El ejemplo que yo utilice que se evidencia muy seguido es el siguiente
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Alcantarillado",
+  "descripcion": "La comunidad reporta que una de las alcantarilla lleva varios dias sin la tapa correspondiente, creando accidentes que se pueden evitar"
+}

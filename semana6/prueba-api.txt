@@ -1,0 +1,6 @@
+El servidor me da como respuesta el siguiente JSON con la información enviada en la peticion POST
+{
+  "estado": "Datos recibidos",
+  "nombre": "Kleider",
+  "mensaje": "Hola, quiero reportar una novedad presentada"
+}
