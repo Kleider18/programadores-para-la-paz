@@ -1,0 +1,2 @@
+El comando uname -a me mostro información del sistema.
+Y el comando whoami me mostro el nombre del usuario.

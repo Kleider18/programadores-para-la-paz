@@ -1,0 +1,5 @@
+1. Limitar el acceso a la información según el rol de cada usuario.
+2. Verificar la identidad de los usuarios antes de permitir cambios importantes en la plataforma.
+3. Realizar copias de seguridad periódicas de los datos importantes.
+4. Cerrar las sesiones que permanezcan inactivas por mucho tiempo.
+5. Utilizar contraseñas seguras y diferentes para cada cuenta.

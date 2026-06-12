@@ -1,0 +1,3 @@
+1. Evitar conectarse a redes Wi-Fi públicas para realizar trámites, pagos o acceder a cuentas personales.
+2. Revisar los permisos que solicitan las aplicaciones antes de instalarlas y aceptar solo los que sean necesarios.
+3. Eliminar correos o mensajes sospechosos sin abrirlos.
