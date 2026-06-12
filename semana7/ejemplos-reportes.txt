@@ -1,0 +1,8 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de iluminación en una calle del barrio durante las noches"
+}
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo dañado en una intersección concurrida, generando riesgo para conductores y peatones"
+}

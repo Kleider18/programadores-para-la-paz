@@ -1,0 +1,8 @@
+En la consulta de reportes realizada se evidencia el reporte registrado anteriormente en la petición POST, la cual es la siguiente
+[
+    {
+     "id":1,
+     "tipo":"Infraestructura",
+     "descripcion":"Daño en tubo madre de acueducto"
+    }
+]
