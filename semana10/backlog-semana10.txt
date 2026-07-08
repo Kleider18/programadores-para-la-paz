@@ -1,0 +1,4 @@
+1. Como moderador quiero aprobar o rechazar reportes para mantener la información organizada y confiable.
+2. Como usuario quiero buscar reportes por categoría para encontrar información de forma más rápida.
+3. Como líder comunitario quiero ver el estado de cada reporte para saber cuáles ya fueron atendidos y cuáles siguen pendientes.
+4. Como integrante de la comunidad quiero recibir una notificación cuando haya una actualización sobre un reporte que realicé para conocer su avance.

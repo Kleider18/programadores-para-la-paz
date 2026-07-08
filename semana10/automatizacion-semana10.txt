@@ -1,0 +1,4 @@
+Evento: Un reporte cambia de estado a "Pendiente de revisión".
+Acción: Se envía una notificación automática por Telegram al responsable de revisar los reportes.
+Mensaje: "Hay un reporte pendiente de revisión. Ingresa a la plataforma para verificar la información."
+Información que no debe enviarse: Fotografías personales, datos de contacto del ciudadano, ubicación exacta del denunciante, contraseñas o cualquier información privada que pueda identificar a la persona.

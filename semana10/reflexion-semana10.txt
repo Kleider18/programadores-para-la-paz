@@ -1,0 +1,5 @@
+Las metodologías ágiles ayudan a organizar el trabajo porque permiten hacer las tareas paso a paso y mejorar cuando sea necesario. Así es más fácil saber qué falta por hacer y trabajar en equipo.
+
+La automatización sirve para que algunas tareas se hagan solas, como enviar un aviso cuando ocurre algo importante. Además, aplicaciones como Telegram ayudan a que la información llegue rápidamente a las personas que la necesitan.
+
+Todo esto hace que la comunicación sea más rápida y que los problemas puedan atenderse con mayor facilidad. En general, estas herramientas ayudan a que la comunidad esté mejor organizada y participe de una forma más sencilla y ordenada.

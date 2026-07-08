@@ -1,0 +1,8 @@
+Primero realizaría la tarea de aprobar o rechazar reportes y la de buscar reportes por categoría.
+
+Me parecen las mas importantes porque ayudan a mantener la información organizada y facilitan encontrar los reportes cuando se necesitan. De esta manera, la comunidad puede consultar información más clara y confiable.
+
+Para mi significa que una tarea esta terminada cuando:
+1. La persona encargada la revisó y confirmó que cumple con lo solicitado.
+2. La tarea quedó integrada al proyecto sin afectar el funcionamiento de las demás partes.
+3. La documentación o descripción de la tarea fue actualizada para que el equipo sepa qué se hizo.
