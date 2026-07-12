@@ -1,0 +1,3 @@
+Evento: Una causa cambia de estado a "Lista para revisión".
+Mensaje: "Hay una causa lista para ser revisada. Ingresa a la plataforma para verificarla."
+Información que no debe enviarse: Datos personales de los usuarios, contraseñas, direcciones, números de teléfono o cualquier información privada relacionada con la causa.
