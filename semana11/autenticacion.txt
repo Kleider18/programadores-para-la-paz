@@ -1,0 +1,3 @@
+El login es el proceso que permite a un usuario ingresar a una aplicación con su cuenta. Sirve para identificar a cada persona y darle acceso a las funciones que le corresponden. 
+Algunas rutas deben estar protegidas para evitar que cualquier persona pueda ver o modificar información importante. De esta manera, solo los usuarios autorizados pueden acceder a ciertas opciones. 
+No se debe exponer información personal como contraseñas, documentos de identidad, direcciones, teléfonos o correos privados. Esto ayuda a proteger la privacidad y la seguridad de los usuarios.

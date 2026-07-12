@@ -1,0 +1,4 @@
+La interfaz tendría una parte donde los usuarios puedan crear una nueva causa escribiendo un título y una descripción de lo que quieren dar a conocer. 
+Después aparecería una lista con todas las causas disponibles para que cualquier persona pueda leerlas y conocer de qué tratan.
+Cada causa tendría un botón de "Apoyar" para que los usuarios puedan mostrar su respaldo, además de un contador que indique cuántos apoyos ha recibido. 
+La plataforma tendría un diseño sencillo y fácil de usar, para que cualquier persona pueda participar sin complicaciones. Además, no mostraría información personal de los usuarios, con el fin de cuidar su privacidad y generar mayor confianza.

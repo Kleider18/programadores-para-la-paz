@@ -1,0 +1,22 @@
+Entidad: Reporte
+
+Campos principales:
+-id
+-tipo
+-descripción
+-fecha
+-estado
+
+Propósito:
+Guardar los reportes que hacen los ciudadanos para llevar un control y hacer seguimiento a cada caso.
+
+Entidad: Comentario
+
+Campos principales:
+-id
+-reporte_id
+-mensaje
+-fecha
+
+Propósito:
+Guardar los comentarios que hacen los usuarios sobre un reporte para compartir información o dar seguimiento.
